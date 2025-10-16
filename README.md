@@ -1,5 +1,6 @@
 # 4.VERIFICATION-OF-THEVENIN-S-THEOREM
-
+## NAME: SINDHU V
+## REF NO: 25018071
 **AIM:**
 
 To verify Thevenin’s theorem practically and theoretically for the given DC circuit.
@@ -36,20 +37,27 @@ It is the look-back resistance across the load terminals when all the sources ar
 
 To measure IL
 
-<img width="469" height="143" alt="image" src="https://github.com/user-attachments/assets/a89d6d2b-c628-434d-961f-3ae03e200d8e" />
+![WhatsApp Image 2025-10-16 at 16 21 06_7f9bc623](https://github.com/user-attachments/assets/da4d196e-5423-4e1b-90e1-0d696bdd65ea)
 
 To measure RTh or RN
 
-<img width="360" height="139" alt="image" src="https://github.com/user-attachments/assets/4a0cd230-205b-48ad-ab08-f359aaf192a6" />
+![WhatsApp Image 2025-10-16 at 16 21 40_e03769e6](https://github.com/user-attachments/assets/e05101ec-6081-4884-a024-7086f0f068c8)
+
 
 To measure VTh or Voc
 
-<img width="452" height="142" alt="image" src="https://github.com/user-attachments/assets/b0bb48a9-90fe-4979-a3fe-4e41c67239ce" />
+
+![WhatsApp Image 2025-10-16 at 16 22 11_16a0d79e](https://github.com/user-attachments/assets/12fe5525-fe34-466c-a74b-dad043e53305)
 
 Thevenin’s equivalent circuit
 
-<img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
+![WhatsApp Image 2025-10-16 at 16 22 46_fdd8ace6](https://github.com/user-attachments/assets/e46859bc-c2e3-4d55-acd8-2e1caf1bb73f)
 
+![WhatsApp Image 2025-10-16 at 16 15 40_65792425](https://github.com/user-attachments/assets/35244e67-9152-44f2-8e12-2893be6d55ec)
+
+![WhatsApp Image 2025-10-16 at 16 15 41_156e9c8c](https://github.com/user-attachments/assets/dc010780-f12f-4906-8388-dceb73eee721)
+
+![WhatsApp Image 2025-10-16 at 15 35 20_785e92d2](https://github.com/user-attachments/assets/6217fb55-f222-429b-ae91-f35c1edc5508)
 
 **PROCEDURE:**
 
